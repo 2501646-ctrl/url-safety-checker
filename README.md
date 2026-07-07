@@ -1,5 +1,5 @@
 # URL/Link Safety Checker
-
+🔗 **Live Demo:** [Try it here](https://url-safety-checker-o49n6r9fukzrr6hvcpct35.streamlit.app/)
 A Python tool that analyzes URLs for common phishing and scam indicators.
 
 ## Features
